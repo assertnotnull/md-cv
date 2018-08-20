@@ -63,15 +63,10 @@ My [personal github account](https://github.com/blmoore) hosts my hobby developm
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
-* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:patgauth@gmail.com">patgauth@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/assertnotnull">assertnotnull</a><br />
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/assertnotnull">assertnotnull</a><br />
+* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/patricegauthier/">LinkedIn</a>
 
 ## References
 
@@ -79,4 +74,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2018 -->
